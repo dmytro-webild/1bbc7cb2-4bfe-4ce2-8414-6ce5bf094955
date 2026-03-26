@@ -36,8 +36,7 @@ export default function LandingPage() {
         { name: "Visit", id: "visit" },
       ]}
       brandName="SNEAKERS"
-      button={{
-        text: "Reserve a Table",        href: "#visit"}}
+      button={{ text: "Reserve a Table", href: "#visit" }}
     />
   </div>
 
