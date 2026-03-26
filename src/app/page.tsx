@@ -88,7 +88,7 @@ export default function LandingPage() {
   <div id="events" data-section="events">
       <MetricCardTen
       animationType="slide-up"
-      textboxLayout="left"
+      textboxLayout="default"
       useInvertedBackground={false}
       metrics={[
         { id: "m1", title: "Karaoke", subtitle: "Singing nights", category: "Event", value: "Wed-Sat" },
